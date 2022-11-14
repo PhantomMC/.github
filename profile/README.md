@@ -2,18 +2,26 @@
 ### [Support Discord](https://discord.gg/ASgcxVvhU9) | [Documentation](https://github.com/PhantomMC/PhantomCore/wiki)
 
 # Description
-## What is Phantom?
+<details>
+<summary><h3>What is Phantom?</h3></summary>
+
 Phantom is a MineCraft protocol responder that forgoes all of the game's [mechanical](https://minecraft.fandom.com/wiki/Gameplay) functionalities.<br>
 This is therefore, by its very definition, the lightest possible MineCraft ["server"](https://wiki.vg/Server_List) implementation.
-### What does Phantom do?
+</details><details>
+<summary><h3>What does Phantom do?</h3></summary>
 Functionally, Phantom is a MineCraft broadcaster that delivers configurable messages to all users who interact with your server's IP.<br>
-### How does Phantom work?
+</details><details>
+<summary><h3>How does Phantom work?</h3></summary>
+
 Whenever a user interacts with your server's IP, their client will request to establish a [TCP or UDP](https://en.wikipedia.org/wiki/Communication_protocol) connection.<br>
 Phantom is equipped to respond to such requests across all versions of every edition of MineCraft (including Bedrock, Java, Pi, & China)
 
 For users viewing your server in their client's server list, Phantom will respond with a customisable MOTD, hover message, upper message, and/or icon.
 If users attempt to join your server, Phantom will accept the connection and immediately kick them with a customisable message.
-### When is Phantom Useful?
+</details>
+<details>
+<summary><h3>When is Phantom Useful?</h3></summary>
+
 Phantom has five primary use cases:
 Temporary Events | Upcoming Servers
 :---: | :---:
@@ -27,7 +35,10 @@ Defunct Servers | Parked Domains
  :---:
  Servers facing downtime on account of hardware migration or maintenance.<br> A DNS-level solution to keep your users informed amidst service outages.
  
- ## How does one use Phantom?
+ </details>
+ <details>
+ <summary><h2>How does one use Phantom?</h2></summary>
+ 
  Phantom can be used through one of two setups: [PhantomMini](https://github.com/PhantomMC/PhantomMini/releases) and [PhantomHost](https://phantomhost.cc).
  ### What is [PhantomMini](https://github.com/PhantomMC/PhantomMini/releases)?
  PhantomMini is our self-hosted, single instance, edition of Phantom.<br>
@@ -48,3 +59,4 @@ Defunct Servers | Parked Domains
   
  All costs are supported by a single unobtrusive advertisment banner on your (admin-side) control panel.
  
+</details>
