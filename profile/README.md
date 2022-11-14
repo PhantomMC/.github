@@ -1,9 +1,9 @@
 [![Phantom Banner](https://i.imgur.com/sXXxwez.jpg)](https://phantomhost.cc)
 ### [Support Discord](https://discord.gg/ASgcxVvhU9) | [Documentation](https://github.com/PhantomMC/PhantomCore/wiki)
 
-# Description
+<details><summary><h1>Details (Click to expand)</h1></summary>
 <details>
-<summary><h3>What is Phantom?</h3></summary>
+<summary><h2>What is Phantom?</h2></summary>
 
 Phantom is a MineCraft protocol responder that forgoes all of the game's [mechanical](https://minecraft.fandom.com/wiki/Gameplay) functionalities.<br>
 This is therefore, by its very definition, the lightest possible MineCraft ["server"](https://wiki.vg/Server_List) implementation.
@@ -59,4 +59,4 @@ Defunct Servers | Parked Domains
   
  All costs are supported by a single unobtrusive advertisment banner on your (admin-side) control panel.
  
-</details>
+</details></details>
